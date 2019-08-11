@@ -7,5 +7,6 @@ public class test {
         String _name = scan.nextLine();
         System.out.println("Nice to meet you "+_name);
         scan.close();
+        
     }
 }
