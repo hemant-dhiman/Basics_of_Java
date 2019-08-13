@@ -4,11 +4,10 @@
             "type": "java",
             "name": "CodeLens (Launch) - test",
             "request": "launch",
+            "mainClass": "test",
+            "projectName": "Basics_of_Java_78f0fd95",
             "cwd": "${workspaceFolder}",
             "console": "externalTerminal",
-            "stopOnEntry": false,
-            "mainClass": "test",
-            "projectName": "Basics_of_Java_78f0fd95"
         }
     ]
 }
