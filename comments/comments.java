@@ -7,6 +7,7 @@ public class comments {
         is a
         multiline
         comment
+
          */
         doc(); // go to definition of doc method to see documentation comment
     }
