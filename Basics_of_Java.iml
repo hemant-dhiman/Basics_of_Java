@@ -7,6 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Variables" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/operator" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Control Statements" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/break_continue" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/comments" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/OOPs" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

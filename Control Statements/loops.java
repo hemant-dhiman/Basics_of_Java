@@ -26,5 +26,18 @@ public class loops {
                 System.out.println(i + "," + j);
             }
         }
+        System.out.println("while loop");
+        int i = 0;
+        while (i <= 5) {
+            System.out.print(" " + i);
+            i++;
+        }
+
+        System.out.println("\ndo while loop");
+        int k = 0;
+        do {
+            System.out.print(" " + k);
+            k++;
+        } while (k <= 5);
     }
 }
