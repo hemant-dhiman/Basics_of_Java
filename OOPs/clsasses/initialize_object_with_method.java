@@ -3,8 +3,8 @@ class Students{
     String name;
 
     public void enterDetails(String n, int r){
-        this.name = n; // this keyword use for current class instance
-        this.roll_no = r;
+        name = n;
+        roll_no = r;
     }
 
     public void pritnStudentsDetails(){
