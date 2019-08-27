@@ -15,6 +15,13 @@ class Students{
 
 public class initialize_object_with_method {
     public static void main(String[] args) {
+        Students Arun = new Students();
+        Students Priya = new Students();
 
+        Arun.enterDetails("Arun", 5);
+        Arun.pritnStudentsDetails();
+
+        Priya.enterDetails("Priya",  6);
+        Priya.pritnStudentsDetails();
     }
 }
