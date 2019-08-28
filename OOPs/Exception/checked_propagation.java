@@ -1,23 +1,16 @@
-/**
- * it is not a program its just
- * example program that checked
- * exception not propagate at
- * the time of method calling!
- */
-
 import java.io.IOException;
 
 public class checked_propagation {
     void a() throws IOException{// for checked exception we use throws keyword
         throw new IOException(); // checked Exception
     }
-    void b(){
-        a();//error
+    void b() throws IOException{
+        a();
     }
     void c(){
         try{
             b();
-        }catch(NullPointerException e){
+        }catch(IOException e){
             System.out.println(e);
         }
     }
