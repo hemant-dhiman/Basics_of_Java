@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Variables" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/OOPs/clsasses" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/OOPs/Static_keyword" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/OOPs/Exception" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
